@@ -15,6 +15,11 @@ You can run the notebook on Google Colab. This would be the easiest option to wo
 In order to run R in Colab, set the right runtime. 
 All you have to do is change the runtime type from Python 3 to R. In the menu *Runtime*, choose the option *Change Runtime Type*, as shown in the figure below.
 
+![runtime](https://github.com/user-attachments/assets/892cfb1e-4bf7-461f-a6f9-b6c8c38d2c55)
+
+![to_R](https://github.com/user-attachments/assets/2fb01fed-3dd8-4ed4-9c96-887cbef88007)
+
+
 ## Running Locally
 
 You can also run `.R` files locally on [RStudio](https://posit.co/products/open-source/rstudio/) or [Visual Studio Code](https://code.visualstudio.com/).
