@@ -22,7 +22,7 @@ All you have to do is change the runtime type from Python 3 to R. In the menu *R
 
 ## Running Locally
 
-You can also run `.R` files locally on [RStudio](https://posit.co/products/open-source/rstudio/) or [Visual Studio Code](https://code.visualstudio.com/).
+You can also run `.R` and `.Rmd` files locally on [RStudio](https://posit.co/products/open-source/rstudio/) or [Visual Studio Code](https://code.visualstudio.com/).
 
 ### RStudio
 **RStudio** is a very popular IDE for R. 
@@ -33,6 +33,8 @@ Follow the instructions below on downloading R and RStudio Desktop.
 
 **Instructions**:
 https://posit.co/download/rstudio-desktop/
+
+To run a `.Rmd` file, you will need to install `rmarkdown` package: https://rmarkdown.rstudio.com/index.html
 
 ### VSCode
 
